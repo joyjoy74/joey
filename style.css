@@ -1,0 +1,20 @@
+h1
+{
+	text-align: center;
+	
+  	color: white;
+}
+
+p
+{
+	font-family: Verdana;
+	color: turquoise;
+	font-size:26px;
+}
+body
+{
+	background-image: url("html-color-codes-color-tutorials-hero.jpg");
+}
+a:link {
+  color: turquoise ;
+}
